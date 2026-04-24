@@ -13,7 +13,7 @@ problems/ <br>
 problem_name/ <br>
 solution.py     → final optimized solution <br>
 notes.md        → reasoning, mistakes, and insights <br>
-attempts.ipynb  → optional experimentation space
+attempts.ipynb  → experimentation space
 
 patterns/
 Notes on reusable algorithmic strategies, such as:
@@ -21,9 +21,6 @@ Notes on reusable algorithmic strategies, such as:
 * Sliding Window
 * Binary Search
 * Dynamic Programming
-
-scratch/
-Unstructured experimentation and repetition practice
 
 progress_log.md
 Weekly reflection on learning progress and challenges
