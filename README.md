@@ -8,11 +8,11 @@ This repository documents my journey of building strong algorithmic intuition by
 
 ## 🗂️ Structure
 
-Each problem is organized to separate thinking stages:
-problems/
-problem_name/
-solution.py     → final optimized solution
-notes.md        → reasoning, mistakes, and insights
+Each problem is organized to separate thinking stages: <br>
+problems/ <br>
+problem_name/ <br>
+solution.py     → final optimized solution <br>
+notes.md        → reasoning, mistakes, and insights <br>
 attempts.ipynb  → optional experimentation space
 
 patterns/
